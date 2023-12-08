@@ -7,7 +7,7 @@ description = "A Bitcoin lib for interacting with tokens"
 repository = "https://github.com/blocksurf/tokenomic"
 license = "MIT"
 categories = ["api-bindings", "cryptography::cryptocurrencies", "network-programming", "wasm"]
-keywords = ["bitcoin", "bsv", "blockchain", "1sat", "lock", "ordinals", "21e8"]
+keywords = ["bitcoin", "1sat", "lock", "ordinals", "21e8"]
 
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
